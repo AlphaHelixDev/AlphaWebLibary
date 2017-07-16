@@ -1,0 +1,8 @@
+{
+  "test": {
+    "user": "dummy",
+    "password": "password",
+    "host": "localhost",
+    "port": "3306"
+  }
+}
